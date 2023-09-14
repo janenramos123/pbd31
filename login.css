@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #cccccc;
+}
+form{
+    display: grid;
+    width: 400px;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 5px;
+}
+h2{
+    margin-bottom: 20px;
+    text-align: center
+}
